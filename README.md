@@ -1,6 +1,6 @@
 
 
-# Hollywood Odyssey: A Strategic Cinematic Analysis
+# [Hollywood Odyssey: A Strategic Cinematic Analysis](https://public.tableau.com/app/profile/viraj.bhutada/viz/HollywoodInsights_ACinematicAnalysis/Dashboard1)
 **Strategic Cinematic Analysis Through Hollywood's Data Landscape**
 
 ![Hollywood Odyssey](https://github.com/virajbhutada/Hollywood-Insights-Tableau/assets/143819712/69b95fe0-116f-4fdd-8ce8-a387d87d1392)
