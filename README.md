@@ -1,5 +1,3 @@
-
-
 # [Hollywood Odyssey: A Strategic Cinematic Analysis](https://public.tableau.com/app/profile/viraj.bhutada/viz/HollywoodInsights_ACinematicAnalysis/Dashboard1)
 **Strategic Cinematic Analysis Through Hollywood's Data Landscape**
 
