@@ -9,10 +9,13 @@
 
 *Strategic cinematic insights through Hollywood's data landscape. Tableau-driven analytics for genre, studio profitability, and audience dynamics. Uncover trends, assess audience reception, and navigate through years of film data, elevating your understanding of the cinematic world.*
 
+---
+
 ## Overview
 
 Explore the fascinating realm of cinema with "Hollywood Odyssey," a dynamic Tableau-driven dashboard providing strategic insights into the cinematic landscape. Investigate key performance indicators (KPIs) such as Total Films, Total Lead Studios, Total Genres, Average Audience Score, Average Rotten Tomatoes Rating, and Average Worldwide Gross. Uncover trends, assess audience reception, and navigate through years of film data, elevating your understanding of the cinematic world.
 
+---
 
 ## Key Features
 
@@ -31,6 +34,7 @@ Explore the fascinating realm of cinema with "Hollywood Odyssey," a dynamic Tabl
 5. **Market Presence Analysis:**
    - Gain valuable market insights by analyzing film distribution across Genres and Lead Studios, offering a comprehensive understanding of audience preferences and market dynamics.
 
+---
 
 ## Getting Started
 
@@ -45,22 +49,23 @@ Explore the fascinating realm of cinema with "Hollywood Odyssey," a dynamic Tabl
    - Navigate through the dashboard to interact with cinematic data visualizations.
 
 
+---
+
 ## Contribute
 
 Feel free to contribute to the project by forking the repository and submitting [pull requests](https://github.com/virajbhutada/Hollywood-Insights-Tableau/pulls). Your insights and improvements are highly valued.
 
+---
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/virajnbhutada24/)
+---
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/virajnbhutada24/" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" width="200" />
-</a>
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/virajnbhutada24/)
 
 
