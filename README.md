@@ -47,7 +47,7 @@ Explore the fascinating realm of cinema with "Hollywood Odyssey," a dynamic Tabl
 
 ## Contribute
 
-Feel free to contribute to the project by forking the repository and submitting pull requests. Your insights and improvements are highly valued.
+Feel free to contribute to the project by forking the repository and submitting [pull requests](https://github.com/virajbhutada/Hollywood-Insights-Tableau/pulls). Your insights and improvements are highly valued.
 
 
 ## License
