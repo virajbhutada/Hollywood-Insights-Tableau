@@ -44,8 +44,8 @@ Explore the fascinating realm of cinema with "Hollywood Odyssey," a dynamic Tabl
      git clone https://github.com/virajbhutada/Hollywood-Insights-Tableau.git
      ```
 
-2. **Explore the Dashboard:**
-   - Visit the Tableau Public link: [Hollywood Insights Tableau](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
+2. **Tableau Public:**
+   - Explore the live dashboard on Tableau Public: [Hollywood Insights Tableau](https://public.tableau.com/app/profile/viraj.bhutada/vizzes)
    - Navigate through the dashboard to interact with cinematic data visualizations.
 
 
